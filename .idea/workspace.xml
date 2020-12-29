@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48d7fd2c-02c7-4bcb-b817-2df1f88a0aaf" name="Default Changelist" comment="增加了新文件">
-      <changelist_data name="libaididi" email="357869271@qqcom" />
-    </list>
+    <list default="true" id="48d7fd2c-02c7-4bcb-b817-2df1f88a0aaf" name="Default Changelist" comment="改变了文件" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +27,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1mK6MYrWZvGyTyLkVTtN0TWQXdv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,7 +40,6 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -102,7 +100,35 @@
       <option name="project" value="LOCAL" />
       <updated>1609240465510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加了新文件">
+      <created>1609240950670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609240950670</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加了新文件">
+      <created>1609241057473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609241057473</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加了新文件">
+      <created>1609241094657</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609241094657</updated>
+    </task>
+    <task id="LOCAL-00007" summary="改变了文件">
+      <created>1609241132462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609241132462</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,9 +141,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加了新文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了新文件" />
+    <MESSAGE value="改变了文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="改变了文件" />
   </component>
 </project>
